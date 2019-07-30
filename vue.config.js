@@ -4,7 +4,7 @@ const resolve = dir => {
 }
 module.exports = {
   publicPath: './',
-  outputDir: 'ljwifi',
+  outputDir: 'Dzxwind.github.io',
   lintOnSave: false,
   runtimeCompiler: true, 
   chainWebpack: config => {
